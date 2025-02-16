@@ -16,9 +16,6 @@ Projeto elaborado de acordo com as diretrizes especificadas para a Missão Prát
 
 Para baixar os arquivos deste repositório, você deve ter o [GitHub](https://github.com/) instalado em seu dispositivo.
 
-Após instalado, você deverá acessar a guia `Arquivo` → `Clonar repositório` → `URL` e incluir o caminho `guedesert/tirando-proveito-da-nuvem-para-projetos-de-software`.
-
-Além disso, faz-se necessário ter previamente instalado o [Azure Data Studio](https://azure.microsoft.com/pt-br/products/data-studio).
 
 ## 🔗 Procedimentos
 
